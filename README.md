@@ -3,7 +3,7 @@ A repo for building a Python 2.7 microservice Docker image
 
 ## Build
 
-Build the image with `build.sh`. Pass in your hostname as an argument (i.e. <hostname>/python2.7)
+Build the image with `build.sh`. Pass in your hostname as an argument (i.e. HOSTNAME/python2.7)
 
 ## Running
 
